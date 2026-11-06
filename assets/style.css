@@ -8,6 +8,10 @@
     border-right: 1px solid #1f2937;
 }
 
+[data-testid="stSidebar"] * {
+    color: #f3f4f6 !important;
+}
+
 [data-testid="stSidebarNav"] {
     display: none !important;
 }
